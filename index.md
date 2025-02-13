@@ -6,13 +6,11 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Yijia Xu(许益家)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am currently an Assistant Research Professor at [the School of Cyber Science and Engineering](https://ccs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My primary research interests lie in **Web security** and **cyber threat**. My work focuses on applying cutting-edge science and technology to address challenges in cyberspace security, offering solutions and methodologies. Recently, my research has concentrated on unknown threat perception, network strong confrontation, APT defense, and network attack traceability.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
-
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
+I obtained my PhD from Sichuan University in 2024, under the supervision of [Prof. Fang Yong](https://ccs.scu.edu.cn/info/1052/2597.htm). Prior to this, I completed my bachelor's and master's degrees at Sichuan University. Currently, I am working as part of the Information Security Research Institute team at Sichuan University.
 
 ---
 
