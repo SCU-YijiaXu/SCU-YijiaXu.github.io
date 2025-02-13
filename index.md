@@ -2,15 +2,15 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="https://scu-yijiaxu.github.io/images/xuyijia.jpg" class="floatpic">
 
 Here is **Yijia Xu(许益家)**.<br>
 
-I am currently an Assistant Research Professor at [the School of Cyber Science and Engineering](https://ccs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My primary research interests lie in **Web security** and **cyber threat**. My work focuses on applying cutting-edge science and technology to address challenges in cyberspace security, offering solutions and methodologies. Recently, my research has concentrated on unknown threat perception, network strong confrontation, APT defense, and network attack traceability.
+I am currently an Assistant Research Professor at <font color=Blue>[the School of Cyber Science and Engineering](https://ccs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/)</font> . My primary research interests lie in **Web security** and **cyber threat**. My work focuses on applying cutting-edge science and technology to address challenges in cyberspace security, offering solutions and methodologies. Recently, my research has concentrated on unknown threat perception, network strong confrontation, APT defense, and network attack traceability.
 
-I obtained my PhD from Sichuan University in 2024, under the supervision of [Prof. Fang Yong](https://ccs.scu.edu.cn/info/1052/2597.htm). Prior to this, I completed my bachelor's and master's degrees at Sichuan University. Currently, I am working as part of the Information Security Research Institute team at Sichuan University.
+I obtained my PhD from Sichuan University in 2024, under the supervision of <font color=Blue>[Prof. Fang Yong](https://ccs.scu.edu.cn/info/1052/2597.htm)</font>. Prior to this, I completed my bachelor's and master's degrees at Sichuan University. Currently, I am working as part of the Information Security Research Institute team at Sichuan University.
 
 ---
 
