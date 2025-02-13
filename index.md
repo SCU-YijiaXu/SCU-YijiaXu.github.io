@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://scu-yijiaxu.github.io/images/xuyijia.jpg" class="floatpic">
 
 Here is **Yijia Xu(许益家)**.<br>
 
