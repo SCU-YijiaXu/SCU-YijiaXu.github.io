@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<br><font size=6 color=LightSalmon>**Yijia Xu(许益家)**</font>
+<br>**<font size=6 color=Coral>Yijia Xu(许益家)</font>**
 
 ## About Me
 
