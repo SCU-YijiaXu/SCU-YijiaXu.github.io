@@ -14,14 +14,17 @@ layout: page
 
 ---
 
-## Research Interests
+## Recruiment for Team
+I sincerely invite talented and creative Master's and PhD students to join our team. We are looking for individuals with a solid foundation in cybersecurity, a passion for learning, and a strong willingness to take on challenges. Additionally, candidates should maintain a healthy, optimistic, and positive mindset.
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Wireless Communication
-- AI-powered Communication
+Priority will be given to candidates who meet one or more of the following criteria:
+- Proficiency in specialized cybersecurity skills, such as risk testing or CTF.
+- Strong programming abilities, particularly in Python.
+- A solid understanding of cutting-edge technologies, with the ability to quickly stay up-to-date on the latest trends.
+- Previous experience with research tasks and the ability to think independently.
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+If you are interested in joining our team, please contact [<font color=Blue>my email</font>](mailto:xuyijia@scu.edu.cn). We also welcome students from other disciplines who are deeply interested in cybersecurity. More information about application and admission process can be found [here](https://ccs.scu.edu.cn/zsjy.htm).
+
 
 ---
 
