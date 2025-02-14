@@ -14,7 +14,7 @@ My email: xuyijia[at]scu.edu.cn
 
 ## Chat with me
 
-**Jan 2025:** I have set up the [online contact](https://calendly.com/xuyijia-scu/30min). Welcome to contact me by this way!
+**Feb 2025:** I have set up the [online contact](https://calendly.com/xuyijia-scu/30min). Welcome to contact me by this way!
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/xuyijia-scu/30min" style="min-width:320px;height:700px;"></div>
