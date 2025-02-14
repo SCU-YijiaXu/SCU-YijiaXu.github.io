@@ -44,10 +44,10 @@ links:
     url: /publications/
   - title: Services
     url: /services/
-  - title: Contact
-    url: /contact/
   - title: Team-Students
     url: /team/
+  - title: Contact
+    url: /contact/
   #- title: Blogs
   #  url: /blogs/
 
