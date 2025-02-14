@@ -4,25 +4,33 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> ( * : Corresponding Author)
 
-## Conference Paper
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
-
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and Hanlin Cai~<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
-
-  <br>
+## Paper 2025
 
 ---
 
-## Ongoing Project
+## Paper 2024
 
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
+\[2024.08\] **Multi-target label backdoor attacks on graph neural networks** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.patcog.2024.110449)<br>Kaiyang Wang, Huaxin Deng, **Yijia Xu**, Zhonglin Liu, Yong Fang<br>Pattern Recognition, 2024
 
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
+\[2024.06\] **Hacker group identification based on dynamic heterogeneous graph node update** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2024.111587)<br>**Yijia Xu**, Yong Fang, Cheng Huang, Zhonglin Liu, Weipeng Cao<br>Applied Soft Computing, 2024
+
+\[2024.05\] **Few-shot graph classification on cross-site scripting attacks detection** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2024.103749)<br>Hongyu Pan, Yong Fang, Wenbo Guo, **Yijia Xu<sup>\*</sup>**, Changhui Wang<br>Computers & Security, 2024
+
+<br>
+
+---
+
+## Paper 2023
+
+\[2023.08\] **Enhancing Phishing Email Detection through Ensemble Learning and Undersampling** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13158756)<br> Qinglin Qi, Zhan Wang, **Yijia Xu**, Yong Fang, Changhui Wang<br>Applied Sciences, 2023
+
+
+## Paper 2022
+
+\[2022.10\] **Log Anomaly Detection Based on Hierarchical Graph Neural Network and Label Contrastive Coding** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.32604/cmc.2023.033124)<br> Yong Fang, Zhiying Zhao, **Yijia Xu<sup>\*</sup>**, Zhonglin Liu<br>Applied Sciences, 2023
+
 
 <br>
 
