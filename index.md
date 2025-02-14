@@ -23,7 +23,7 @@ I sincerely invite talented and creative Master's and PhD students to join our t
 - A solid understanding of cutting-edge technologies, with the ability to quickly stay up-to-date on the latest trends.
 - Previous experience with research tasks and the ability to think independently.
 
-<br>If you are interested in joining our team, please contact [<font color=Blue>my email</font>](mailto:xuyijia@scu.edu.cn). We also welcome students from other disciplines who are deeply interested in cybersecurity. More information about application and admission process can be found [here](https://ccs.scu.edu.cn/zsjy.htm).
+<br>If you are interested in joining our team, please contact [<font color=Blue>my email</font>](mailto:xuyijia@scu.edu.cn). We also welcome students from other disciplines who are deeply interested in cybersecurity. More information about application and admission process can be found [<font color=Blue>here</font>](https://ccs.scu.edu.cn/zsjy.htm).
 
 
 ---
