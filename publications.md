@@ -28,7 +28,11 @@ title: Publications
 
 <br>\[2023.11\] <u>TCCCD: Triplet-Based Cross-Language Code Clone Detection</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app132112084)<br> Yong Fang, Fangzheng Zhou, **Yijia Xu<sup>\*</sup>**, Zhonglin Liu<br>*Applied Sciences, 2023*
 
+<br>\[2023.09\] <u>Research on application system log anomaly detection based on federated transfer learning</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.19907/j.0490-6756.2023.033002)<br> Minchuan Zeng, Yong Fang, **Yijia Xu<sup>\*</sup>**<br>*Journal of Sichuan University (Chinese journal), 2023*
+
 <br>\[2023.08\] <u>Enhancing Phishing Email Detection through Ensemble Learning and Undersampling</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13158756)<br> Qinglin Qi, Zhan Wang, **Yijia Xu**, Yong Fang, Changhui Wang<br>*Applied Sciences, 2023*
+
+<br>\[2023.06\] <u>Log Anomaly Detection Based on Hierarchical Graph Neural Network and Label Contrastive Coding</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.32604/cmc.2023.033124)<br> Yong Fang, Zhiying Zhao, **Yijia Xu<sup>\*</sup>**, Zhonglin Liu<br>*Computers, Materials & Continua, 2023*
 
 <br>\[2023.01\] <u>MFXSS: An effective XSS vulnerability detection method in JavaScript based on multi-feature model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2022.103015)<br> Zhonglin Liu, Yong Fang, Cheng Huang, **Yijia Xu**<br>*Computers & Security, 2023*
 
@@ -37,8 +41,25 @@ title: Publications
 
 ## Paper 2022
 
-\[2022.10\] <u>Log Anomaly Detection Based on Hierarchical Graph Neural Network and Label Contrastive Coding</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.32604/cmc.2023.033124)<br> Yong Fang, Zhiying Zhao, **Yijia Xu<sup>\*</sup>**, Zhonglin Liu<br>*Applied Sciences, 2023*
+\[2022.12\] <u>Cross-site Scripting Threat Intelligence Detection Based on Deep Learning</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1007/978-981-19-8445-7_6)<br> Zhonglin Liu, Yong Fang, **Yijia Xu<sup>\*</sup>**<br>*International Conference on Frontiers in Cyber Security(FCS), 2022*
 
+<br>\[2022.12\] <u>Black-Box Adversarial Windows Malware Generation via United Puppet-based Dropper and Genetic Algorithm</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1109/hpcc-dss-smartcity-dependsys57074.2022.00113)<br> Shaohua Wang, Yong Fang, **Yijia Xu<sup>\*</sup>**, Yaxian Wang<br>*IEEE 24th Int Conf on High Performance Computing & Communications(HPCC), 2022*
+
+<br>\[2022.12\] <u>Web Attack Payload Identification and Interpretability Analysis Based on Graph Convolutional Network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1109/msn57253.2022.00071)<br> **Yijia Xu**, Yong Fang, Zhonglin Liu<br>*IEEE 18th International Conference on Mobility, Sensing and Networking(MSN), 2022*
+
+<br>\[2022.10\] <u>HGHAN: Hacker group identification based on heterogeneous graph attention network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.ins.2022.08.097)<br> **Yijia Xu**, Yong Fang, Cheng Huang, Zhonglin Liu<br>*Information Sciences, 2022*
+
+<br>\[2022.07\] <u>DGCNN-based Exploit Kit Attack Activities Detection Method</u> ~ [\(<font color=Blue>Link</font>\)]()<br> Xiaole Liu, Yong Fang, Cheng Huang, **Yijia Xu<sup>\*</sup>**<br>*Information Security Research (Chinese Journal), 2022*
+
+<br>\[2022.05\] <u>GAXSS: Effective Payload Generation Method to Detect XSS Vulnerabilities Based on Genetic Algorithm</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1155/2022/2031924)<br> Zhonglin Liu, Yong Fang, Cheng Huang, **Yijia Xu**<br>*Security and Communication Networks, 2022*
+
+## Paper before Ph.D
+
+\[2020.06\] <u>Providing Email Privacy by Preventing Webmail from Loading Malicious XSS Payloads</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app10134425)<br> Yong Fang, **Yijia Xu**, Peng Jia, Cheng Huang<br>*Applied Sciences, 2020*
+
+<br>\[2019.12\] <u>Against Malicious SSL/TLS Encryption: Identify Malicious Traffic Based on Random Forest</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1007/978-981-32-9343-4_10)<br> Yong Fang, **Yijia Xu**, Cheng Huang, Liang Liu, Lei Zhang*4th International Congress on Information and Communication Technology(ICICT), 2019*
+
+<br>\[2019.08\] <u>RLXSS: Optimizing XSS Detection Model to Defend Against Adversarial Attacks Based on Reinforcement Learning</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/fi11080177)<br> Yong Fang, Cheng Huang, **Yijia Xu**, Yang Li<br>*Future Internet, 2019*
 
 <br>
 
@@ -46,20 +67,8 @@ title: Publications
 
 ## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+\[2024.05\] <u>Web Attacker Discovery and Identification Based on Graph Neural Network</u> <br>**YijiaXu** (Advisor: Yong Fang)<br>*Ph.D Thesis, 2024*
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
----
-
-## Early Project
-
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+<br>\[2021.05\] <u>Research on XSS Vulnerability Mining and Malicious Exploitation Identification Technology for Webmail</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.27342/d.cnki.gscdu.2021.005136)<br> **YijiaXu** (Advisor: Yong Fang)<br>*Master's Thesis, 2021*
 
   <br>
