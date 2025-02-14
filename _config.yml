@@ -44,8 +44,8 @@ links:
     url: /publications/
   - title: Services
     url: /services/
-  # - title: Hobbies
-  #  url: /hobbies/
+  - title: Contact
+    url: /contact/
   - title: Team-Students
     url: /team/
   #- title: Blogs
