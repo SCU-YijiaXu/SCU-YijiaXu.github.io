@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /services/index.html
+title: Services
 ---
 
 > Update: 14th Feb 2025
