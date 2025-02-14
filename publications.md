@@ -12,11 +12,11 @@ title: Publications
 
 ## Paper 2024
 
-\[2024.08\] **Multi-target label backdoor attacks on graph neural networks** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.patcog.2024.110449)<br>Kaiyang Wang, Huaxin Deng, **Yijia Xu**, Zhonglin Liu, Yong Fang<br>Pattern Recognition, 2024
+\[2024.08\] <u>Multi-target label backdoor attacks on graph neural networks</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.patcog.2024.110449)<br>Kaiyang Wang, Huaxin Deng, **Yijia Xu**, Zhonglin Liu, Yong Fang<br>*Pattern Recognition, 2024*<br>
 
-\[2024.06\] **Hacker group identification based on dynamic heterogeneous graph node update** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2024.111587)<br>**Yijia Xu**, Yong Fang, Cheng Huang, Zhonglin Liu, Weipeng Cao<br>Applied Soft Computing, 2024
+\[2024.06\] <u>Hacker group identification based on dynamic heterogeneous graph node update</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2024.111587)<br>**Yijia Xu**, Yong Fang, Cheng Huang, Zhonglin Liu, Weipeng Cao<br>*Applied Soft Computing, 2024*<br>
 
-\[2024.05\] **Few-shot graph classification on cross-site scripting attacks detection** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2024.103749)<br>Hongyu Pan, Yong Fang, Wenbo Guo, **Yijia Xu<sup>\*</sup>**, Changhui Wang<br>Computers & Security, 2024
+\[2024.05\] <u>Few-shot graph classification on cross-site scripting attacks detection</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2024.103749)<br>Hongyu Pan, Yong Fang, Wenbo Guo, **Yijia Xu<sup>\*</sup>**, Changhui Wang<br>*Computers & Security, 2024*<br>
 
 <br>
 
@@ -24,12 +24,12 @@ title: Publications
 
 ## Paper 2023
 
-\[2023.08\] **Enhancing Phishing Email Detection through Ensemble Learning and Undersampling** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13158756)<br> Qinglin Qi, Zhan Wang, **Yijia Xu**, Yong Fang, Changhui Wang<br>Applied Sciences, 2023
+\[2023.08\] <u>Enhancing Phishing Email Detection through Ensemble Learning and Undersampling</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13158756)<br> Qinglin Qi, Zhan Wang, **Yijia Xu**, Yong Fang, Changhui Wang<br>*Applied Sciences, 2023*<br>
 
 
 ## Paper 2022
 
-\[2022.10\] **Log Anomaly Detection Based on Hierarchical Graph Neural Network and Label Contrastive Coding** ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.32604/cmc.2023.033124)<br> Yong Fang, Zhiying Zhao, **Yijia Xu<sup>\*</sup>**, Zhonglin Liu<br>Applied Sciences, 2023
+\[2022.10\] <u>Log Anomaly Detection Based on Hierarchical Graph Neural Network and Label Contrastive Coding</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.32604/cmc.2023.033124)<br> Yong Fang, Zhiying Zhao, **Yijia Xu<sup>\*</sup>**, Zhonglin Liu<br>*Applied Sciences, 2023*<br>
 
 
 <br>
