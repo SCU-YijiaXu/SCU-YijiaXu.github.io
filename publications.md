@@ -24,7 +24,15 @@ title: Publications
 
 ## Paper 2023
 
-\[2023.08\] <u>Enhancing Phishing Email Detection through Ensemble Learning and Undersampling</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13158756)<br> Qinglin Qi, Zhan Wang, **Yijia Xu**, Yong Fang, Changhui Wang<br>*Applied Sciences, 2023*
+\[2023.11\] <u>PWAGAT: Potential Web attacker detection based on graph attention network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.neucom.2023.126725)<br> **Yijia Xu**, Yong Fang, Zhonglin Liu, Qiang Zhang<br>*Neurocomputing, 2023*
+
+<br>\[2023.11\] <u>TCCCD: Triplet-Based Cross-Language Code Clone Detection</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app132112084)<br> Yong Fang, Fangzheng Zhou, **Yijia Xu<sup>\*</sup>**, Zhonglin Liu<br>*Applied Sciences, 2023*
+
+<br>\[2023.08\] <u>Enhancing Phishing Email Detection through Ensemble Learning and Undersampling</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13158756)<br> Qinglin Qi, Zhan Wang, **Yijia Xu**, Yong Fang, Changhui Wang<br>*Applied Sciences, 2023*
+
+<br>\[2023.01\] <u>MFXSS: An effective XSS vulnerability detection method in JavaScript based on multi-feature model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2022.103015)<br> Zhonglin Liu, Yong Fang, Cheng Huang, **Yijia Xu**<br>*Computers & Security, 2023*
+
+<br>\[2023.01\] <u>VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13020825)<br> Chun Lin,  **Yijia Xu<sup>\*</sup>**, Yong Fang, Zhonglin Liu<br>*Applied Sciences, 2023*
 
 
 ## Paper 2022
