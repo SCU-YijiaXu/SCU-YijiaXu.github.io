@@ -69,6 +69,6 @@ title: Publications
 
 \[2024.05\] <u>Web Attacker Discovery and Identification Based on Graph Neural Network</u> <br>**YijiaXu** (Advisor: Yong Fang)<br>*Ph.D Thesis, 2024*
 
-<br>\[2021.05\] <u>Research on XSS Vulnerability Mining and Malicious Exploitation Identification Technology for Webmail</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.27342/d.cnki.gscdu.2021.005136)<br> **YijiaXu** (Advisor: Yong Fang)<br>*Master's Thesis, 2021*
+<br>\[2021.05\] <u>Research on XSS Vulnerability Mining and Malicious Exploitation Identification Technology for Webmail</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.27342/d.cnki.gscdu.2021.005136)<br> **YijiaXu** (Advisor: Yong Fang)<br>*MS Thesis, 2021*
 
   <br>
