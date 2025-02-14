@@ -30,7 +30,12 @@ I sincerely invite talented and creative Master's and PhD students to join our t
 
 ## News and Updates
 
-- **\[2024.12\]**：I receive the Excellent Reviewer Certificate awarded by Computer Network Journal.
-- **\[2024.03\]**：Our paper on backdoor attacks has been accepted by the Pattern Recognition Journal.
+- **\[2024.12\]**: I received the Excellent Reviewer Certificate awarded by Computer Network Journal.
+- **\[2024.08\]**: Our paper on backdoor attacks has been published in the Pattern Recognition Journal.
+- **\[2024.07\]**: I graduated and worked at Sichuan University.
+- **\[2024.06\]**: Our paper on hacker group identification has been published in the Applied Soft Computing Journal.
+- **\[2024.05\]**: Our paper on XSS attack detection has been published in the Computer & Security Journal.
+- **\[2024.03\]**: I was hired as a peer mentor for the Advanced Scientific Research Training Camp at Sichuan University.
+- **\[2023.12\]**: I won the Top Ten Academic Stars award from Sichuan University.
 <br>
 
