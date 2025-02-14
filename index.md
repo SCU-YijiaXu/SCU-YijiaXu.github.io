@@ -6,7 +6,7 @@ layout: page
 
 ## About Me
 
-<img src="https://scu-yijiaxu.github.io/images/xuyijia-1.jpg" class="floatpic">
+<img src="https://scu-yijiaxu.github.io/images/xuyijia-1.png" class="floatpic">
 
 <br>I am currently an assistant research professor at [<font color=Blue>the School of Cyber Science and Engineering</font>](https://ccs.scu.edu.cn/), [<font color=Blue>Sichuan University</font>](https://www.scu.edu.cn/) . My primary research interests lie in **Web security** and **cyber threat**. My work focuses on applying cutting-edge science and technology to address challenges in cyberspace security, offering solutions and methodologies. Recently, my research has concentrated on unknown threat perception, network strong confrontation, APT defense, and cyber attack traceability.
 
