@@ -12,7 +12,7 @@ title: Contact
 My email: xuyijia[at]scu.edu.cn
 
 
-## Chat with me
+## Chat With Me
 
 **Feb 2025:** I have set up the [online contact](https://calendly.com/xuyijia-scu/30min). Welcome to contact me by this way!
 

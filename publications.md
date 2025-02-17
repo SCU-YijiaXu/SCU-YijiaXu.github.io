@@ -8,6 +8,8 @@ title: Publications
 
 ## Paper 2025
 
+\[2024.02\] <u>Unknown Web Attack Threat Detection Based on Large Language Model</u> ~ \(<font color=Blue>Link</font>\)<br>**Yijia Xu**, Qiang Zhang, Huaxin Deng, Zhonglin Liu, Cheng Yang, Yong Fang<br>*Applied Soft Computing, 2025*
+
 ---
 
 ## Paper 2024
