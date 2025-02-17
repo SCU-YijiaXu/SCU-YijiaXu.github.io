@@ -43,7 +43,7 @@ title: Publications
 
 ## Paper 2022
 
-\[2022.12\] <u>Cross-site Scripting Threat Intelligence Detection Based on Deep Learning</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1007/978-981-19-8445-7_6)<br> Zhonglin Liu, Yong Fang, **Yijia Xu<sup>\*</sup>**<br>*International Conference on Frontiers in Cyber Security(FCS), 2022*<br> <font color=IndianRed>Best Paper Award</font>
+\[2022.12\] <u>Cross-site Scripting Threat Intelligence Detection Based on Deep Learning</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1007/978-981-19-8445-7_6)<br> Zhonglin Liu, Yong Fang, **Yijia Xu<sup>\*</sup>**<br>*International Conference on Frontiers in Cyber Security(FCS), 2022*<br> <img src="https://whiterabbitxyj.com/images/logo/trophy-star.png"  width="15" /> <font color=IndianRed>Best Paper Award</font>
 
 <br>\[2022.12\] <u>Black-Box Adversarial Windows Malware Generation via United Puppet-based Dropper and Genetic Algorithm</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1109/hpcc-dss-smartcity-dependsys57074.2022.00113)<br> Shaohua Wang, Yong Fang, **Yijia Xu<sup>\*</sup>**, Yaxian Wang<br>*IEEE 24th Int Conf on High Performance Computing & Communications(HPCC), 2022*
 
