@@ -22,8 +22,6 @@ title: Publications
 
 <br>\[2024.05\] <u>Few-shot graph classification on cross-site scripting attacks detection</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2024.103749)<br>Hongyu Pan, Yong Fang, Wenbo Guo, **Yijia Xu<sup>\*</sup>**, Changhui Wang<br>*Computers & Security, 2024*
 
-<br>
-
 ---
 
 ## Paper 2023
@@ -57,6 +55,7 @@ title: Publications
 
 <br>\[2022.05\] <u>GAXSS: Effective Payload Generation Method to Detect XSS Vulnerabilities Based on Genetic Algorithm</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1155/2022/2031924)<br> Zhonglin Liu, Yong Fang, Cheng Huang, **Yijia Xu**<br>*Security and Communication Networks, 2022*
 
+
 ## Paper before Ph.D
 
 \[2020.06\] <u>Providing Email Privacy by Preventing Webmail from Loading Malicious XSS Payloads</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app10134425)<br> Yong Fang, **Yijia Xu**, Peng Jia, Cheng Huang<br>*Applied Sciences, 2020*
@@ -65,9 +64,8 @@ title: Publications
 
 <br>\[2019.08\] <u>RLXSS: Optimizing XSS Detection Model to Defend Against Adversarial Attacks Based on Reinforcement Learning</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/fi11080177)<br> Yong Fang, Cheng Huang, **Yijia Xu**, Yang Li<br>*Future Internet, 2019*
 
-<br>
-
 ---
+
 
 ## Degree Thesis
 
@@ -75,4 +73,3 @@ title: Publications
 
 <br>\[2021.05\] <u>Research on XSS Vulnerability Mining and Malicious Exploitation Identification Technology for Webmail</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.27342/d.cnki.gscdu.2021.005136)<br> **YijiaXu** (Advisor: Yong Fang)<br>*MS Thesis, 2021*
 
-  <br>
