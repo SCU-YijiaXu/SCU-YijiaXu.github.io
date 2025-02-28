@@ -8,7 +8,7 @@ title: Publications
 
 ## Paper 2025
 
-\[2024.02\] <u>Unknown Web Attack Threat Detection Based on Large Language Model</u> ~ \(<font color=Blue>Accept and wait for publish</font>\)<br>**Yijia Xu**, Qiang Zhang, Huaxin Deng, Zhonglin Liu, Cheng Yang, Yong Fang<br>*Applied Soft Computing, 2025*
+\[2024.02\] <u>Unknown Web Attack Threat Detection Based on Large Language Model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2025.112905)<br>**Yijia Xu**, Qiang Zhang, Huaxin Deng, Zhonglin Liu, Cheng Yang, Yong Fang<br>*Applied Soft Computing, 2025*
 
 <br>\[2024.02\] <u>Automatic Optimization for Generating Adversarial Malware based on Prioritized Evolutionary Computing</u> ~ \(<font color=Blue>Accept and wait for publish</font>\)<br>Yaochang Xu, Yong Fang, **Yijia Xu**, Zhan Wang<br>*Applied Soft Computing, 2025*
 
