@@ -16,6 +16,7 @@ title: Services
 ---
 ## Assist Team Review
 
+- IJCAI (2025)
 - Applied Soft Computing (ASOC 2024/2025)
 - Computers & Security (C&S 2024/2025)
 - Neurocomputing (NEUCOM 2024)
