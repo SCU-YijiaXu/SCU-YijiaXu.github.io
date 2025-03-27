@@ -60,7 +60,7 @@ title: Publications
 
 \[2020.06\] <u>Providing Email Privacy by Preventing Webmail from Loading Malicious XSS Payloads</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app10134425)<br> Yong Fang, **Yijia Xu**, Peng Jia, Cheng Huang<br>*Applied Sciences, 2020*
 
-<br>\[2019.12\] <u>Against Malicious SSL/TLS Encryption: Identify Malicious Traffic Based on Random Forest</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1007/978-981-32-9343-4_10)<br> Yong Fang, **Yijia Xu**, Cheng Huang, Liang Liu, Lei Zhang*4th International Congress on Information and Communication Technology(ICICT), 2019*
+<br>\[2019.12\] <u>Against Malicious SSL/TLS Encryption: Identify Malicious Traffic Based on Random Forest</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1007/978-981-32-9343-4_10)<br> Yong Fang, **Yijia Xu**, Cheng Huang, Liang Liu, Lei Zhang<br>*4th International Congress on Information and Communication Technology(ICICT), 2019*
 
 <br>\[2019.08\] <u>RLXSS: Optimizing XSS Detection Model to Defend Against Adversarial Attacks Based on Reinforcement Learning</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/fi11080177)<br> Yong Fang, Cheng Huang, **Yijia Xu**, Yang Li<br>*Future Internet, 2019*
 
