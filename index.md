@@ -29,6 +29,7 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 ---
 
 ## News and Updates
+- **\[2025.02\]**: Our paper on the spear phishing email generation has been accepted by Information Fusion Journal.
 - **\[2025.03\]**: I will be going to NTU on March 28th. See you in Singapore!
 - **\[2025.02\]**: Our paper on the generating adversarial malware has been accepted by Applied Soft Computing Journal.
 - **\[2025.02\]**: Our paper on the unknown threat perception has been accepted by Applied Soft Computing Journal.
