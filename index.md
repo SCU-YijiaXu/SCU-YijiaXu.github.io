@@ -38,7 +38,7 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 - **\[2024.07\]**: I started to work at Sichuan University.
 - **\[2024.06\]**: Our paper on hacker group identification has been published in the Applied Soft Computing Journal.
 - **\[2024.05\]**: Our paper on XSS attack detection has been published in the Computer & Security Journal.
-- **\[2024.03\]**: I was hired as a peer mentor for the Advanced Scientific Research Training Camp at Sichuan University.
 - **\[2023.12\]**: I won the Top Ten Academic Stars award from Sichuan University.
+<!-- - **\[2024.03\]**: I was hired as a peer mentor for the Advanced Scientific Research Training Camp at Sichuan University. -->
 <br>
 
