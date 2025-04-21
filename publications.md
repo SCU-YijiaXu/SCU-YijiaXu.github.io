@@ -8,7 +8,7 @@ title: Publications
 
 ## Paper 2025
 
-\[2024.03\] <u>SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.inffus.2025.103176)<br>Qinglin Qi, Yun Luo, **Yijia Xu<sup>\*</sup>**, Wenbo Guo, Yong Fang<sup>\*</sup><br>*Information Fusion, 2025*
+\[2024.04\] <u>SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.inffus.2025.103176)<br>Qinglin Qi, Yun Luo, **Yijia Xu<sup>\*</sup>**, Wenbo Guo, Yong Fang<sup>\*</sup><br>*Information Fusion, 2025*
 
 <br>\[2024.02\] <u>Unknown Web Attack Threat Detection Based on Large Language Model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2025.112905)<br>**Yijia Xu**, Qiang Zhang, Huaxin Deng, Zhonglin Liu, Cheng Yang, Yong Fang<br>*Applied Soft Computing, 2025*
 
