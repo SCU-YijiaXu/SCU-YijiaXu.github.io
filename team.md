@@ -34,10 +34,10 @@ Chengling Hao
 
 ## Selected Alumni
 
-Kaiyang Wang (co-advised, MS, 2025) $\rightarrow$ Shanghai Jiao Tong University(Ph.D)
-<br>Qinlin Qi (co-advised, MS, 2025) $\rightarrow$ Westlake University
-<br>Rui Pan (co-advised, MS, 2025) $\rightarrow$ Meituan
-<br>Hongsheng Zuo (co-advised, MS, 2025) $\rightarrow$ CMB Network Technology
+Kaiyang Wang (co-advised, MS, 2025) --> Shanghai Jiao Tong University(Ph.D)
+<br>Qinlin Qi (co-advised, MS, 2025) --> Westlake University
+<br>Rui Pan (co-advised, MS, 2025) --> Meituan
+<br>Hongsheng Zuo (co-advised, MS, 2025) --> CMB Network Technology
 
 ---
 
