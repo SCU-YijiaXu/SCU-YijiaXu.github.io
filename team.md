@@ -16,16 +16,13 @@ Ximing Fan
 <br>Huaxin Deng
 <br>Qiang Zhang
 <br>Xinyi Gao
+<br>Panxi Su
 
 ---
 
 ## MS Student
 
-Kaiyang Wang
-<br>Qinlin Qi
-<br>Rui Pan
-<br>Hongsheng Zuo
-<br>Chengling Hao
+Chengling Hao
 <br>Yuntao Yang
 <br>Jiyang Song
 <br>Qian Wang
@@ -33,6 +30,14 @@ Kaiyang Wang
 <br>Yunfeng He
 <br>Bo Lan
 <br>Jifu Dai
+<br>Wei Zeng
+
+## Selected Alumni
+
+Kaiyang Wang (co-advised, MS, 2025) $\rightarrow$ Shanghai Jiao Tong University(Ph.D)
+<br>Qinlin Qi (co-advised, MS, 2025) $\rightarrow$ Westlake University
+<br>Rui Pan (co-advised, MS, 2025) $\rightarrow$ Meituan
+<br>Hongsheng Zuo (co-advised, MS, 2025) $\rightarrow$ CMB Network Technology
 
 ---
 
