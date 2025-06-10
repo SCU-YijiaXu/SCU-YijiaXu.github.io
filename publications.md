@@ -8,7 +8,7 @@ title: Publications
 
 ## Paper 2025
 
-\[2024.06\] <u>Go Source Code Vulnerability Detection Method Based on Graph Neural Network</u> ~ [\(<font color=Blue>Wait for publish</font>\)]()<br>Lisha Yuan, Yong Fang, Qiang Zhang, Zhonglin Liu, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
+\[2024.06\] <u>Go Source Code Vulnerability Detection Method Based on Graph Neural Network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app15126524)<br>Lisha Yuan, Yong Fang, Qiang Zhang, Zhonglin Liu, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
 
 <br>\[2024.04\] <u>SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.inffus.2025.103176)<br>Qinglin Qi, Yun Luo, **Yijia Xu<sup>\*</sup>**, Wenbo Guo, Yong Fang<sup>\*</sup><br>*Information Fusion, 2025*
 
