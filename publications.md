@@ -7,8 +7,9 @@ title: Publications
 > ( * : Corresponding Author)
 
 ## Paper 2025
+<br>\[2024.06\] <u>Detection of False Data Injection Attacks: A Protected Federated Deep Learning Based On Encryption Mechanism</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Chenxi Lin, Qun Zhou, Zhan Wang, Ximing Fan, Yaochang Xu, **Yijia Xu**<br>*Computers, Materials & Continua, 2025*
 
-\[2024.06\] <u>Go Source Code Vulnerability Detection Method Based on Graph Neural Network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app15126524)<br>Lisha Yuan, Yong Fang, Qiang Zhang, Zhonglin Liu, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
+<br>\[2024.06\] <u>Go Source Code Vulnerability Detection Method Based on Graph Neural Network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app15126524)<br>Lisha Yuan, Yong Fang, Qiang Zhang, Zhonglin Liu, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
 
 <br>\[2024.04\] <u>SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.inffus.2025.103176)<br>Qinglin Qi, Yun Luo, **Yijia Xu<sup>\*</sup>**, Wenbo Guo, Yong Fang<sup>\*</sup><br>*Information Fusion, 2025*
 
@@ -42,7 +43,7 @@ title: Publications
 
 <br>\[2023.01\] <u>MFXSS: An effective XSS vulnerability detection method in JavaScript based on multi-feature model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2022.103015)<br> Zhonglin Liu, Yong Fang, Cheng Huang, **Yijia Xu**<br>*Computers & Security, 2023*
 
-<br>\[2023.01\] <u>VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13020825)<br> Chun Lin,  **Yijia Xu<sup>\*</sup>**, Yong Fang, Zhonglin Liu<br>*Applied Sciences, 2023*
+<br>\[2023.01\] <u>VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13020825)<br> Chun Lin,  **Yijia Xu<sup>\*</sup>**, Yong Fang, Zhonglin Liu<br>*Applied Sciences, 2023*<br> <img src="https://whiterabbitxyj.com/images/logo/trophy-star.png"  width="18" /> <font color=IndianRed>Best Student Paper Award</font>
 
 
 ## Paper 2022

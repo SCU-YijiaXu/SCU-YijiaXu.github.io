@@ -22,3 +22,9 @@ title: Services
 - Computers & Security (C&S 2024/2025)
 - Neurocomputing (NEUCOM 2024)
 <br>
+
+---
+## Committees
+
+- AIGC (2025) \[Program Committees\]
+<br>
