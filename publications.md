@@ -43,7 +43,7 @@ title: Publications
 
 <br>\[2023.01\] <u>MFXSS: An effective XSS vulnerability detection method in JavaScript based on multi-feature model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.cose.2022.103015)<br> Zhonglin Liu, Yong Fang, Cheng Huang, **Yijia Xu**<br>*Computers & Security, 2023*
 
-<br>\[2023.01\] <u>VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13020825)<br> Chun Lin,  **Yijia Xu<sup>\*</sup>**, Yong Fang, Zhonglin Liu<br>*Applied Sciences, 2023*<br> <img src="https://whiterabbitxyj.com/images/logo/trophy-star.png"  width="18" /> <font color=IndianRed>Best Student Paper Award</font>
+<br>\[2023.01\] <u>VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13020825)<br> Chun Lin,  **Yijia Xu<sup>\*</sup>**, Yong Fang, Zhonglin Liu<br>*Applied Sciences, 2023*<br> <img src="https://whiterabbitxyj.com/images/logo/trophy-star.png"  width="18" /> <font color=IndianRed>Best Paper Award</font>
 
 
 ## Paper 2022
