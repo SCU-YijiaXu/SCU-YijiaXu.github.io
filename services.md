@@ -16,6 +16,7 @@ title: Services
 ---
 ## Assist Team Review
 
+- NeurIPS (2025)
 - IJCAI (2025)
 - ASE (2025)
 - Applied Soft Computing (ASOC 2024/2025)
