@@ -50,6 +50,7 @@ title: Publications
 
 <br>\[2023.01\] <u>VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app13020825)<br> Chun Lin,  **Yijia Xu<sup>\*</sup>**, Yong Fang, Zhonglin Liu<br>*Applied Sciences, 2023*<br> <img src="https://whiterabbitxyj.com/images/logo/trophy-star.png"  width="18" /> <font color=IndianRed>Best Paper Award</font>
 
+---
 
 ## Paper 2022
 
@@ -65,6 +66,7 @@ title: Publications
 
 <br>\[2022.05\] <u>GAXSS: Effective Payload Generation Method to Detect XSS Vulnerabilities Based on Genetic Algorithm</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1155/2022/2031924)<br> Zhonglin Liu, Yong Fang, Cheng Huang, **Yijia Xu**<br>*Security and Communication Networks, 2022*
 
+---
 
 ## Paper before Ph.D
 

@@ -32,6 +32,8 @@ Chengling Hao
 <br>Jifu Dai
 <br>Wei Zeng
 
+---
+
 ## Selected Alumni
 
 Kaiyang Wang (co-advised, MS, 2025) --> Shanghai Jiao Tong University(Ph.D)
