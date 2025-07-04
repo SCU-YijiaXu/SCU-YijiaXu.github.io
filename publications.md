@@ -8,7 +8,7 @@ title: Publications
 
 ## Paper 2025
 
-<br>\[2024.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Qiang Zhang, Pei Yan, **Yijia Xu**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
+<br>\[2024.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
 <br>\[2024.07\] <u>A Vision for Access Control in LLM Agent Systems</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Dong Huang, Jie Li, Hongyi Cai, Xinfeng Li, **Yijia Xu**, Wenbing Tang, Jie Zhang, and Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
