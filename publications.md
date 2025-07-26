@@ -8,19 +8,19 @@ title: Publications
 
 ## Paper 2025
 
-<br>\[2024.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
+<br>\[2025.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
-<br>\[2024.07\] <u>A Vision for Access Control in LLM Agent Systems</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Dong Huang, Jie Li, Hongyi Cai, Xinfeng Li, **Yijia Xu**, Wenbing Tang, Jie Zhang, and Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
+<br>\[2025.07\] <u>A Vision for Access Control in LLM Agent Systems</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Dong Huang, Jie Li, Hongyi Cai, Xinfeng Li, **Yijia Xu**, Wenbing Tang, Jie Zhang, and Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
-<br>\[2024.06\] <u>Detection of False Data Injection Attacks: A Protected Federated Deep Learning Based On Encryption Mechanism</u> ~ [\(<font color=Blue>link</font>\)](https://www.techscience.com/cmc/online/detail/23821)<br>Chenxi Lin, Qun Zhou, Zhan Wang, Ximing Fan, Yaochang Xu, **Yijia Xu**<br>*Computers, Materials & Continua, 2025*
+<br>\[2025.06\] <u>Detection of False Data Injection Attacks: A Protected Federated Deep Learning Based On Encryption Mechanism</u> ~ [\(<font color=Blue>link</font>\)](https://www.techscience.com/cmc/online/detail/23821)<br>Chenxi Lin, Qun Zhou, Zhan Wang, Ximing Fan, Yaochang Xu, **Yijia Xu**<br>*Computers, Materials & Continua, 2025*
 
-<br>\[2024.06\] <u>Go Source Code Vulnerability Detection Method Based on Graph Neural Network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app15126524)<br>Lisha Yuan, Yong Fang, Qiang Zhang, Zhonglin Liu, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
+<br>\[2025.06\] <u>Go Source Code Vulnerability Detection Method Based on Graph Neural Network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app15126524)<br>Lisha Yuan, Yong Fang, Qiang Zhang, Zhonglin Liu, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
 
-<br>\[2024.04\] <u>SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.inffus.2025.103176)<br>Qinglin Qi, Yun Luo, **Yijia Xu<sup>\*</sup>**, Wenbo Guo, Yong Fang<sup>\*</sup><br>*Information Fusion, 2025*
+<br>\[2025.04\] <u>SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.inffus.2025.103176)<br>Qinglin Qi, Yun Luo, **Yijia Xu<sup>\*</sup>**, Wenbo Guo, Yong Fang<sup>\*</sup><br>*Information Fusion, 2025*
 
-<br>\[2024.02\] <u>Unknown Web Attack Threat Detection Based on Large Language Model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2025.112905)<br>**Yijia Xu**, Qiang Zhang, Huaxin Deng, Zhonglin Liu, Cheng Yang, Yong Fang<br>*Applied Soft Computing, 2025*
+<br>\[2025.02\] <u>Unknown Web Attack Threat Detection Based on Large Language Model</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2025.112905)<br>**Yijia Xu**, Qiang Zhang, Huaxin Deng, Zhonglin Liu, Cheng Yang, Yong Fang<br>*Applied Soft Computing, 2025*
 
-<br>\[2024.02\] <u>Automatic Optimization for Generating Adversarial Malware based on Prioritized Evolutionary Computing</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2025.112933)<br>Yaochang Xu, Yong Fang, **Yijia Xu**, Zhan Wang<br>*Applied Soft Computing, 2025*
+<br>\[2025.02\] <u>Automatic Optimization for Generating Adversarial Malware based on Prioritized Evolutionary Computing</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.asoc.2025.112933)<br>Yaochang Xu, Yong Fang, **Yijia Xu**, Zhan Wang<br>*Applied Soft Computing, 2025*
 
 ---
 
