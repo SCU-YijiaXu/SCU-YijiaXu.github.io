@@ -8,7 +8,7 @@ title: Publications
 
 ## Paper 2025
 
-\[2025.07\] <u>Directed Fuzzing Based on Path Constraints and Deviation Path Correction</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Hongsheng Zuo, Yong Fang, Peng Jia, Ximing Fan, Xi Peng **Yijia Xu**, Rui Pan<br>*Information and Software Technology, 2025*
+\[2025.08\] <u>Directed Fuzzing Based on Path Constraints and Deviation Path Correction</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Hongsheng Zuo, Yong Fang, Peng Jia, Ximing Fan, Xi Peng, **Yijia Xu**, Rui Pan<br>*Information and Software Technology, 2025*
 
 <br>\[2025.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
