@@ -10,7 +10,7 @@ layout: page
 
 <br>I am currently an associate research fellow at [<font color=Blue>the School of Cyber Science and Engineering</font>](https://ccs.scu.edu.cn/), [<font color=Blue>Sichuan University</font>](https://www.scu.edu.cn/) . My primary research interests lie in **Web security** and **cyber threat**. My work focuses on applying cutting-edge science and technology to address challenges in cyberspace security, offering solutions and methodologies. Recently, my research has concentrated on unknown threat perception, cyber strong confrontation, APT defense, and cyber attack traceability.
 
-<br>I obtained my PhD from Sichuan University in 2024, under the supervision of [<font color=Blue>Prof. Fang Yong</font>](https://ccs.scu.edu.cn/info/1052/2597.htm). Prior to this, I completed my bachelor's and master's degrees at Sichuan University. Currently, I am working as part of the Information Security Research Institute team at Sichuan University.
+<br>I obtained my Ph.D from Sichuan University in 2024, under the supervision of [<font color=Blue>Prof. Fang Yong</font>](https://ccs.scu.edu.cn/info/1052/2597.htm). Prior to this, I completed my bachelor's and master's degrees at Sichuan University. Currently, I am working as part of the Information Security Research Institute team at Sichuan University.
 
 ---
 
