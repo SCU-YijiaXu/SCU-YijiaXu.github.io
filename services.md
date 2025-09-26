@@ -10,6 +10,7 @@ title: Services
 
 - IEEE Transactions on Information Forensics and Security (TIFS 2024/2025)
 - IEEE Transactions on Industrial Informatics (TII 2025)
+- IEEE Network (2025)
 - Computer Networks (CN 2024)
 <br>
 
