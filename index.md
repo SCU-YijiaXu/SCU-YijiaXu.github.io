@@ -29,9 +29,9 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 ---
 
 ## News and Updates
-- **\[2025.10\]**: Our paper on the web page tampering detection has been accepted in Transactions on Dependable and Secure Computing(TDSC).
+- **\[2025.10\]**: Our paper on the web page tampering detection has been accepted in IEEE Transactions on Dependable and Secure Computing (TDSC).
 - **\[2025.08\]**: Our paper on the directed fuzzing has been published in Information and Software Technology Journal.
-- **\[2025.07\]**: Our position paper about Agent Behavior(LLM) has been accept in ICECCS 2025.
+- **\[2025.07\]**: Our position paper about Agent Behavior (LLM) has been accept in ICECCS 2025.
 - **\[2025.06\]**: Our paper (publish in 2023) has won the Best Paper Award in Applied Sciences Journal.
 - **\[2025.06\]**: Our paper on the code vulnerability detection has been published in Applied Sciences Journal.
 - **\[2025.04\]**: Our paper on the spear phishing email generation has been published in Information Fusion Journal.
