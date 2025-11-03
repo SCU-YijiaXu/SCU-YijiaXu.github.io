@@ -8,13 +8,13 @@ title: Publications
 
 ## Paper 2025
 
-\[2025.10\] <u>Web Page Tampering Detection Based on Dynamic Temporal Graph Pre-training</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>**Yijia Xu**, Qiang Zhang, Kaiyang Wang, Zhonglin Liu, Cheng Huang, Yong Fang<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
+\[2025.10\] <u>Web Page Tampering Detection Based on Dynamic Temporal Graph Pre-training</u> ~ [\(<font color=Blue>link</font>\)](https://ieeexplore.ieee.org/abstract/document/11207234)<br>**Yijia Xu**, Qiang Zhang, Kaiyang Wang, Zhonglin Liu, Cheng Huang, Yong Fang<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
 
 <br>\[2025.08\] <u>Directed Fuzzing Based on Path Constraints and Deviation Path Correction</u> ~ [\(<font color=Blue>link</font>\)](https://doi.org/10.1016/j.infsof.2025.107875)<br>Hongsheng Zuo, Yong Fang, Peng Jia, Ximing Fan, Xi Peng, **Yijia Xu**, Rui Pan<br>*Information and Software Technology, 2025*
 
-<br>\[2025.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
+<br>\[2025.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>link</font>\)](https://link.springer.com/chapter/10.1007/978-3-032-00828-2_26)<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
-<br>\[2025.07\] <u>A Vision for Access Control in LLM Agent Systems</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Dong Huang, Jie Li, Hongyi Cai, Xinfeng Li, **Yijia Xu**, Wenbing Tang, Jie Zhang, and Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
+<br>\[2025.07\] <u>A Vision for Access Control in LLM Agent Systems</u> ~ [\(<font color=Blue>link</font>\)](https://link.springer.com/chapter/10.1007/978-3-032-00828-2_25)<br>Dong Huang, Jie Li, Hongyi Cai, Xinfeng Li, **Yijia Xu**, Wenbing Tang, Jie Zhang, and Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
 <br>\[2025.06\] <u>Detection of False Data Injection Attacks: A Protected Federated Deep Learning Based On Encryption Mechanism</u> ~ [\(<font color=Blue>link</font>\)](https://www.techscience.com/cmc/online/detail/23821)<br>Chenxi Lin, Qun Zhou, Zhan Wang, Ximing Fan, Yaochang Xu, **Yijia Xu**<br>*Computers, Materials & Continua, 2025*
 
