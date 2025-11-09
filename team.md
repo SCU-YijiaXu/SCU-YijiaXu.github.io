@@ -18,7 +18,7 @@ Ximing Fan
 <br>Xinyi Gao
 <br>Panxi Su
 <br>Junchang Zhang
-
+<br>Xiaowang Wu
 ---
 
 ## MS Student
