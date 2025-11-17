@@ -14,6 +14,10 @@ title: Services
 - Computer Networks (CN 2024)
 <br>
 
+## Chinese Journal Reviewer
+- Chinese Journal of Computers (<< 计算机学报 >>)
+- Computer Engineering (<< 计算机工程 >> )
+
 ---
 ## Assist Team Review
 
