@@ -29,6 +29,7 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 ---
 
 ## News and Updates
+- **\[2025.11\]**: Our paper on the fake news detection has been published in Applied Sciences Journal.
 - **\[2025.10\]**: Our paper on the web page tampering detection has been published in IEEE Transactions on Dependable and Secure Computing (TDSC).
 - **\[2025.08\]**: Our paper on the directed fuzzing has been published in Information and Software Technology Journal.
 - **\[2025.07\]**: Our position paper about Agent Behavior (LLM) has been published in ICECCS 2025.

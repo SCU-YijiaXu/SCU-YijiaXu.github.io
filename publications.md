@@ -8,7 +8,9 @@ title: Publications
 
 ## Paper 2025
 
-\[2025.10\] <u>Web Page Tampering Detection Based on Dynamic Temporal Graph Pre-training</u> ~ [\(<font color=Blue>link</font>\)](https://ieeexplore.ieee.org/abstract/document/11207234)<br>**Yijia Xu**, Qiang Zhang, Kaiyang Wang, Zhonglin Liu, Cheng Huang, Yong Fang<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
+\[2025.11\] <u>Fake News Detection in Short Videos by Integrating Semantic Credibility and Multi-Granularity Contrastive Learning</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Yukun Yang, Xiwei Shi, Haoxu Li, Buwei Fan, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
+
+<br>\[2025.10\] <u>Web Page Tampering Detection Based on Dynamic Temporal Graph Pre-training</u> ~ [\(<font color=Blue>link</font>\)](https://ieeexplore.ieee.org/abstract/document/11207234)<br>**Yijia Xu**, Qiang Zhang, Kaiyang Wang, Zhonglin Liu, Cheng Huang, Yong Fang<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
 
 <br>\[2025.08\] <u>Directed Fuzzing Based on Path Constraints and Deviation Path Correction</u> ~ [\(<font color=Blue>link</font>\)](https://doi.org/10.1016/j.infsof.2025.107875)<br>Hongsheng Zuo, Yong Fang, Peng Jia, Ximing Fan, Xi Peng, **Yijia Xu**, Rui Pan<br>*Information and Software Technology, 2025*
 
