@@ -39,7 +39,7 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 - **\[2025.03\]**: I will be going to NTU on March 28th. See you in Singapore!
 - **\[2025.02\]**: Our paper on the generating adversarial malware has been published in Applied Soft Computing Journal.
 - **\[2025.02\]**: Our paper on the unknown threat perception has been published in Applied Soft Computing Journal.
-- **\[2024.12\]**: I received the Excellent Reviewer Certificate awarded by Computer Networks Journal.
+<!-- - **\[2024.12\]**: I received the Excellent Reviewer Certificate awarded by Computer Networks Journal. -->
 <!-- - **\[2024.08\]**: Our paper on backdoor attacks has been published in the Pattern Recognition Journal. -->
 <!-- - **\[2024.07\]**: I started to work at Sichuan University. -->
 <!-- - **\[2024.06\]**: Our paper on hacker group identification has been published in the Applied Soft Computing Journal. -->
