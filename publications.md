@@ -8,7 +8,9 @@ title: Publications
 
 ## Paper 2025
 
-\[2025.11\] <u>Fake News Detection in Short Videos by Integrating Semantic Credibility and Multi-Granularity Contrastive Learning</u> ~ [\(<font color=Blue>link</font>\)](https://www.mdpi.com/2076-3417/15/23/12621)<br>Yukun Yang, Xiwei Shi, Haoxu Li, Buwei Fan, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
+\[2025.12\] <u>MPS-Fuzz: An Enhanced Fine-Grained Fuzzing Based on Units with Multiple Inputs and Outputs</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Ximing Fan, Yong Fang, Peng Jia, Hongwei Li, Xi Peng, **Yijia Xu**, Qinying Wang, Binbin Zhao, Shouling Ji<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
+
+<br>\[2025.11\] <u>Fake News Detection in Short Videos by Integrating Semantic Credibility and Multi-Granularity Contrastive Learning</u> ~ [\(<font color=Blue>link</font>\)](https://www.mdpi.com/2076-3417/15/23/12621)<br>Yukun Yang, Xiwei Shi, Haoxu Li, Buwei Fan, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
 
 <br>\[2025.10\] <u>Web Page Tampering Detection Based on Dynamic Temporal Graph Pre-training</u> ~ [\(<font color=Blue>link</font>\)](https://ieeexplore.ieee.org/abstract/document/11207234)<br>**Yijia Xu**, Qiang Zhang, Kaiyang Wang, Zhonglin Liu, Cheng Huang, Yong Fang<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
 
