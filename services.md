@@ -28,6 +28,7 @@ title: Services
 - Pattern Recognition (PR 2025)
 - Applied Soft Computing (ASOC 2024/2025)
 - Computers & Security (C&S 2024/2025)
+- Information and Software Technology (INFSOF 2026)
 - Neurocomputing (NEUCOM 2024)
 <br>
 
