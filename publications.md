@@ -6,6 +6,10 @@ title: Publications
 
 > ( * : Corresponding Author)
 
+## Paper 2026
+\[2026.02\] <u>An Effective and Stealthy XSS Adversarial Sample Generation Method Against Deep Learning Detection Models</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Zhan Wang, Yong Fang, Yaochang Xu, **Yijia Xu**<br>*Neurocomputing, 2025*
+
+
 ## Paper 2025
 
 \[2025.12\] <u>MPS-Fuzz: An Enhanced Fine-Grained Fuzzing Based on Units with Multiple Inputs and Outputs</u> ~ [\(<font color=Blue>link</font>\)](https://ieeexplore.ieee.org/document/11299535)<br>Ximing Fan, Yong Fang, Peng Jia, Hongwei Li, Xi Peng, **Yijia Xu**, Qinying Wang, Binbin Zhao, Shouling Ji<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
