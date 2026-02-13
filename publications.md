@@ -7,25 +7,25 @@ title: Publications
 > ( * : Corresponding Author)
 
 ## Paper 2026
-\[2026.02\] <u>An Effective and Stealthy XSS Adversarial Sample Generation Method Against Deep Learning Detection Models</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Zhan Wang, Yong Fang, Yaochang Xu, **Yijia Xu**<br>*Neurocomputing, 2026*
+\[2026.02\] <u>An Effective and Stealthy XSS Adversarial Sample Generation Method Against Deep Learning Detection Models</u> ~ [\(<font color=Blue>Link</font>\)](https://www.sciencedirect.com/science/article/abs/pii/S092523122600442X)<br>Zhan Wang, Yong Fang, Yaochang Xu, **Yijia Xu**<br>*Neurocomputing, 2026*
 
 ---
 
 ## Paper 2025
 
-\[2025.12\] <u>MPS-Fuzz: An Enhanced Fine-Grained Fuzzing Based on Units with Multiple Inputs and Outputs</u> ~ [\(<font color=Blue>link</font>\)](https://ieeexplore.ieee.org/document/11299535)<br>Ximing Fan, Yong Fang, Peng Jia, Hongwei Li, Xi Peng, **Yijia Xu**, Qinying Wang, Binbin Zhao, Shouling Ji<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
+\[2025.12\] <u>MPS-Fuzz: An Enhanced Fine-Grained Fuzzing Based on Units with Multiple Inputs and Outputs</u> ~ [\(<font color=Blue>Link</font>\)](https://ieeexplore.ieee.org/document/11299535)<br>Ximing Fan, Yong Fang, Peng Jia, Hongwei Li, Xi Peng, **Yijia Xu**, Qinying Wang, Binbin Zhao, Shouling Ji<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
 
-<br>\[2025.11\] <u>Fake News Detection in Short Videos by Integrating Semantic Credibility and Multi-Granularity Contrastive Learning</u> ~ [\(<font color=Blue>link</font>\)](https://www.mdpi.com/2076-3417/15/23/12621)<br>Yukun Yang, Xiwei Shi, Haoxu Li, Buwei Fan, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
+<br>\[2025.11\] <u>Fake News Detection in Short Videos by Integrating Semantic Credibility and Multi-Granularity Contrastive Learning</u> ~ [\(<font color=Blue>Link</font>\)](https://www.mdpi.com/2076-3417/15/23/12621)<br>Yukun Yang, Xiwei Shi, Haoxu Li, Buwei Fan, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
 
-<br>\[2025.10\] <u>Web Page Tampering Detection Based on Dynamic Temporal Graph Pre-training</u> ~ [\(<font color=Blue>link</font>\)](https://ieeexplore.ieee.org/abstract/document/11207234)<br>**Yijia Xu**, Qiang Zhang, Kaiyang Wang, Zhonglin Liu, Cheng Huang, Yong Fang<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
+<br>\[2025.10\] <u>Web Page Tampering Detection Based on Dynamic Temporal Graph Pre-training</u> ~ [\(<font color=Blue>Link</font>\)](https://ieeexplore.ieee.org/abstract/document/11207234)<br>**Yijia Xu**, Qiang Zhang, Kaiyang Wang, Zhonglin Liu, Cheng Huang, Yong Fang<br>*IEEE Transactions on Dependable and Secure Computing, 2025*
 
-<br>\[2025.08\] <u>Directed Fuzzing Based on Path Constraints and Deviation Path Correction</u> ~ [\(<font color=Blue>link</font>\)](https://doi.org/10.1016/j.infsof.2025.107875)<br>Hongsheng Zuo, Yong Fang, Peng Jia, Ximing Fan, Xi Peng, **Yijia Xu**, Rui Pan<br>*Information and Software Technology, 2025*
+<br>\[2025.08\] <u>Directed Fuzzing Based on Path Constraints and Deviation Path Correction</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.infsof.2025.107875)<br>Hongsheng Zuo, Yong Fang, Peng Jia, Ximing Fan, Xi Peng, **Yijia Xu**, Rui Pan<br>*Information and Software Technology, 2025*
 
-<br>\[2025.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>link</font>\)](https://link.springer.com/chapter/10.1007/978-3-032-00828-2_26)<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
+<br>\[2025.07\] <u>Agent Behavior: The Regulatory Object of the Agent-Centric Online Ecosystem in Digital Age</u> ~ [\(<font color=Blue>Link</font>\)](https://link.springer.com/chapter/10.1007/978-3-032-00828-2_26)<br>Qiang Zhang, Pei Yan, **Yijia Xu<sup>\*</sup>**, Xinfeng Li, Hongyi Cai, Chuanpo Fu, Yong Fang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
-<br>\[2025.07\] <u>A Vision for Access Control in LLM Agent Systems</u> ~ [\(<font color=Blue>link</font>\)](https://link.springer.com/chapter/10.1007/978-3-032-00828-2_25)<br>Dong Huang, Jie Li, Hongyi Cai, Xinfeng Li, **Yijia Xu**, Wenbing Tang, Jie Zhang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
+<br>\[2025.07\] <u>A Vision for Access Control in LLM Agent Systems</u> ~ [\(<font color=Blue>Link</font>\)](https://link.springer.com/chapter/10.1007/978-3-032-00828-2_25)<br>Dong Huang, Jie Li, Hongyi Cai, Xinfeng Li, **Yijia Xu**, Wenbing Tang, Jie Zhang, Yang Liu<br>*29th International Conference on Engineering of Complex Computer Systems, 2025*
 
-<br>\[2025.06\] <u>Detection of False Data Injection Attacks: A Protected Federated Deep Learning Based On Encryption Mechanism</u> ~ [\(<font color=Blue>link</font>\)](https://www.techscience.com/cmc/online/detail/23821)<br>Chenxi Lin, Qun Zhou, Zhan Wang, Ximing Fan, Yaochang Xu, **Yijia Xu**<br>*Computers, Materials & Continua, 2025*
+<br>\[2025.06\] <u>Detection of False Data Injection Attacks: A Protected Federated Deep Learning Based On Encryption Mechanism</u> ~ [\(<font color=Blue>Link</font>\)](https://www.techscience.com/cmc/online/detail/23821)<br>Chenxi Lin, Qun Zhou, Zhan Wang, Ximing Fan, Yaochang Xu, **Yijia Xu**<br>*Computers, Materials & Continua, 2025*
 
 <br>\[2025.06\] <u>Go Source Code Vulnerability Detection Method Based on Graph Neural Network</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.3390/app15126524)<br>Lisha Yuan, Yong Fang, Qiang Zhang, Zhonglin Liu, **Yijia Xu<sup>\*</sup>**<br>*Applied Sciences, 2025*
 
