@@ -29,7 +29,7 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 ---
 
 ## News and Updates
-- **\[2025.12\]**: Our paper on the XSS attack method has been accepted in Neurocomputing Journal.
+- **\[2026.02\]**: Our paper on the XSS attack method has been accepted in Neurocomputing Journal.
 - **\[2025.12\]**: Our paper on the fuzzing has been accepted in IEEE Transactions on Dependable and Secure Computing (TDSC).
 - **\[2025.11\]**: Our paper on the fake news detection has been published in Applied Sciences Journal.
 - **\[2025.10\]**: Our paper on the web page tampering detection has been published in IEEE Transactions on Dependable and Secure Computing (TDSC).
