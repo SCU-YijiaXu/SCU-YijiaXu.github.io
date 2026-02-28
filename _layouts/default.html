@@ -23,6 +23,35 @@
   gtag('config', 'G-T5N5JY1E21');
 </script>
 
+<!-- 在现有的 <head> 部分添加以下代码 -->
+<script>
+  // 语言切换功能
+  document.addEventListener('DOMContentLoaded', function() {
+    const languageSwitch = document.getElementById('language-switch');
+    if (languageSwitch) {
+      languageSwitch.addEventListener('click', function(e) {
+        e.preventDefault();
+        const currentLang = this.getAttribute('data-lang');
+        const newLang = currentLang === 'en' ? 'zh' : 'en';
+        
+        // 保存语言偏好到localStorage
+        localStorage.setItem('preferred-language', newLang);
+        
+        // 更新按钮文本
+        this.setAttribute('data-lang', newLang);
+        this.textContent = newLang === 'en' ? '中文' : 'English';
+        
+        // 重新加载页面以应用新语言
+        window.location.reload();
+      });
+      
+      // 初始化按钮状态
+      const savedLang = localStorage.getItem('preferred-language') || 'en';
+      languageSwitch.setAttribute('data-lang', savedLang);
+      languageSwitch.textContent = savedLang === 'en' ? '中文' : 'English';
+    }
+  });
+</script>
 </head>
 
 

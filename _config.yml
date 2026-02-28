@@ -38,17 +38,45 @@ google_verify: "AU8FayaqhiW3NEfuMwolMae3wBgn2giBdATuCDXlano"
 
 # Links to include in top navigation
 # For external links add external: true
+# 在文件末尾添加以下配置
+language:
+  default: en
+  supported:
+    - en
+    - zh
+
+# 修改链接配置以支持多语言
 links:
   - title: About Me
     url: /
+    lang: en
+  - title: 关于我
+    url: /zh/
+    lang: zh
   - title: Publications
     url: /publications/
+    lang: en
+  - title: 发表论文
+    url: /zh/publications/
+    lang: zh
   - title: Services
     url: /services/
+    lang: en
+  - title: 学术服务
+    url: /zh/services/
+    lang: zh
   - title: Team-Students
     url: /team/
+    lang: en
+  - title: 团队成员
+    url: /zh/team/
+    lang: zh
   - title: Contact
     url: /contact/
+    lang: en
+  - title: 联系我
+    url: /zh/contact/
+    lang: zh
   #- title: Blogs
   #  url: /blogs/
 
