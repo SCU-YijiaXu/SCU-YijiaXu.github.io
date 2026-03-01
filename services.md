@@ -13,7 +13,7 @@ title: Services
 - IEEE Transactions on Networking (ToN 2026)
 - IEEE Transactions on Industrial Informatics (TII 2025)
 - IEEE Network (2025)
-- Computer Science Review (COSREV 2025)
+- Computer Science Review (COSREV 2025/2026)
 - Computer Networks (CN 2024)
 - Information and Software Technology (INFSOF 2026)
 <br>
