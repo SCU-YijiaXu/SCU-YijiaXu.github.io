@@ -9,7 +9,7 @@ title: Publications
 ## Paper 2026
 \[2026.03\] <u>CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Ximing Fan, Yong Fang<sup>\*</sup>, Peng Jia, Yang Liu, **Yijia Xu<sup>\*</sup>**, Xi Peng, Yuhao Zhou<br>*The ACM International Conference on the Foundations of Software Engineering(FSE), 2026*
 
-<br>\[2026.03\] <u>One Trigger, Multiple Victims: Clean-Label Neighborhood Backdoor Attacks on Graph Neural Networks</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Huaxin Deng, Yong Fang, Qiang Zhang, Chengwei Liu, Yang Liu, **Yijia Xu<sup>\*</sup>**<br>*IEEE Transactions on Information Forensics & Security, 2026*
+<br>\[2026.03\] <u>One Trigger, Multiple Victims: Clean-Label Neighborhood Backdoor Attacks on Graph Neural Networks</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1109/TIFS.2026.3678359)<br>Huaxin Deng, Yong Fang, Qiang Zhang, Chengwei Liu, Yang Liu, **Yijia Xu<sup>\*</sup>**<br>*IEEE Transactions on Information Forensics & Security, 2026*
 
 <br>\[2026.02\] <u>An Effective and Stealthy XSS Adversarial Sample Generation Method Against Deep Learning Detection Models</u> ~ [\(<font color=Blue>Link</font>\)](https://www.sciencedirect.com/science/article/abs/pii/S092523122600442X)<br>Zhan Wang, Yong Fang, Yaochang Xu, **Yijia Xu**<br>*Neurocomputing, 2026*
 
