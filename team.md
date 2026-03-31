@@ -47,4 +47,4 @@ Kaiyang Wang (co-advised, MS, 2025) --> Shanghai Jiao Tong University(Ph.D)
 ---
 
 ## Researcher
-Liuzhong Liu --> Sichuan University
+Zhonglin Liu --> Sichuan University
