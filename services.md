@@ -4,7 +4,7 @@ permalink: /services/index.html
 title: Services
 ---
 
-> Update: 8th February 2026
+> Update: 25th April 2026
 
 ## Journal Reviewer
 
@@ -13,6 +13,7 @@ title: Services
 - IEEE Transactions on Networking (ToN 2026)
 - IEEE Transactions on Industrial Informatics (TII 2025)
 - IEEE Network (2025)
+- Applied Soft Computing (ASOC 2026)
 - Computer Science Review (COSREV 2025/2026)
 - Computer Networks (CN 2024)
 - Information and Software Technology (INFSOF 2026)
