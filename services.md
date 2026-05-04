@@ -20,8 +20,8 @@ title: Services
 <br>
 
 ## Chinese Journal Reviewer
-- Chinese Journal of Computers (<< 计算机学报 >>)
-- Computer Engineering (<< 计算机工程 >> )
+- Chinese Journal of Computers (<< 计算机学报 >> 2025/2026)
+- Computer Engineering (<< 计算机工程 >> 2025/2026)
 
 ---
 ## Assist Team Review
