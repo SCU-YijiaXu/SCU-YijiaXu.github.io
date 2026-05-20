@@ -11,7 +11,7 @@ title: Services
 - IEEE Transactions on Dependable and Secure Computing (TDSC 2026)
 - IEEE Transactions on Information Forensics and Security (TIFS 2024/2025)
 - IEEE Transactions on Networking (ToN 2026)
-- IEEE Transactions on Industrial Informatics (TII 2025)
+- IEEE Transactions on Industrial Informatics (TII 2025/2026)
 - IEEE Internet of Things (IOJT 2026)
 - IEEE Network (2025)
 - Applied Soft Computing (ASOC 2026)
