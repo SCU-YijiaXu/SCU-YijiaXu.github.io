@@ -16,6 +16,7 @@ title: Services
 - IEEE Network (2025)
 - Applied Soft Computing (ASOC 2026)
 - Neurocomputing (NEUCOM 2026)
+- Computers & Security (C&S 2026)
 - Computer Science Review (COSREV 2025/2026)
 - Computer Networks (CN 2024)
 - Information and Software Technology (INFSOF 2026)
@@ -32,7 +33,6 @@ title: Services
 - IJCAI (2025)
 - ASE (2025)
 - Pattern Recognition (PR 2025)
-- Computers & Security (C&S 2024/2025)
 <br>
 
 ---
