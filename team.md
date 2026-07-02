@@ -10,8 +10,7 @@ title: Team
 
 ## Ph.D Student
 
-Ximing Fan
-<br>Zhan Wang
+Zhan Wang
 <br>Yaochang Xu
 <br>Huaxin Deng
 <br>Qiang Zhang
@@ -24,10 +23,7 @@ Ximing Fan
 
 ## MS Student
 
-Chengling Hao
-<br>Yuntao Yang
-<br>Jiyang Song
-<br>Qian Wang
+Qian Wang
 <br>Lisha Yuan
 <br>Yunfeng He
 <br>Bo Lan
@@ -38,8 +34,11 @@ Chengling Hao
 ---
 
 ## Selected Alumni
-
-Kaiyang Wang (co-advised, MS, 2025) --> Shanghai Jiao Tong University(Ph.D)
+<br>Ximing Fan (co-advised, Ph.D, 2026) --> Sichuan University
+<br>Yuntao Yang (co-advised, MS, 2026) --> Bank of ChongQing
+<br>Chengling Hao (co-advised, MS, 2026) --> *
+<br>Jiyang Song (co-advised, MS, 2026) --> *
+<br>Kaiyang Wang (co-advised, MS, 2025) --> Shanghai Jiao Tong University(Ph.D)
 <br>Qinlin Qi (co-advised, MS, 2025) --> Westlake University
 <br>Rui Pan (co-advised, MS, 2025) --> Meituan
 <br>Hongsheng Zuo (co-advised, MS, 2025) --> CMB Network Technology
