@@ -7,6 +7,9 @@ title: Publications
 > ( * : Corresponding Author)
 
 ## Paper 2026
+
+\[2026.07\] <u>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
+
 <br>\[2026.06\] <u>Heterogeneous Graph Structure Optimization with Dual-View Contrastive Learning for Fraud Detection</u> ~ [\(<font color=Blue>Link</font>\)](https://www.mdpi.com/2076-3417/16/11/5485)<br>Yan Wu, Chengling Hao, **Yijia Xu**, Yaofeng Hu, Zhonglin Liu<br>*Applied Sciences, 2026*
 
 <br>\[2026.03\] <u>CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries</u> ~ [\(<font color=Blue>Link</font>\)](https://dl.acm.org/doi/10.1145/3808170)<br>Ximing Fan, Yong Fang<sup>\*</sup>, Peng Jia, Yang Liu, **Yijia Xu<sup>\*</sup>**, Xi Peng, Yuhao Zhou<br>*The ACM International Conference on the Foundations of Software Engineering(FSE), 2026*
