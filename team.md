@@ -34,6 +34,7 @@ Qian Wang
 ---
 
 ## Selected Alumni
+
 <br>Ximing Fan (co-advised, Ph.D, 2026) --> Sichuan University
 <br>Yuntao Yang (co-advised, MS, 2026) --> Bank of ChongQing
 <br>Chengling Hao (co-advised, MS, 2026) --> *

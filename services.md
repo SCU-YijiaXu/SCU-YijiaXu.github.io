@@ -14,6 +14,7 @@ title: Services
 - IEEE Transactions on Industrial Informatics (TII 2025/2026)
 - IEEE Internet of Things (IOJT 2026)
 - IEEE Network (2025)
+- Knowledge-Based Systems (KBS 2026)
 - Applied Soft Computing (ASOC 2026)
 - Neurocomputing (NEUCOM 2026)
 - Computers & Security (C&S 2026)
@@ -23,6 +24,7 @@ title: Services
 <br>
 
 ## Chinese Journal Reviewer
+
 - Chinese Journal of Computers (<< 计算机学报 >> 2025/2026)
 - Computer Engineering (<< 计算机工程 >> 2025/2026)
 
