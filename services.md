@@ -12,7 +12,7 @@ title: Services
 - IEEE Transactions on Information Forensics and Security (TIFS 2024/2025)
 - IEEE Transactions on Networking (ToN 2026)
 - IEEE Transactions on Industrial Informatics (TII 2025/2026)
-- IEEE Internet of Things (IOJT 2026)
+- IEEE Internet of Things (IoTJ 2026)
 - IEEE Network (2025)
 - Knowledge-Based Systems (KBS 2026)
 - Applied Soft Computing (ASOC 2026)
