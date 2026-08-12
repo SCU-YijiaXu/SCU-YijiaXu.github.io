@@ -8,7 +8,7 @@ title: Publications
 
 ## Paper 2026
 
-\[2026.08\] <u>TARL: Multi-task adaptive representation learning for secure encrypted traffic analysis</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Mengmeng Ge, Likun Liu, Zhaowei Zhang, Hongyu Wang, Xiangzhan Yu, **Yijia Xu**, Ruitao Feng, Zhichao Hu<br>*Computer Networks, 2026*
+\[2026.08\] <u>TARL: Multi-task adaptive representation learning for secure encrypted traffic analysis</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.comnet.2026.112646)<br>Mengmeng Ge, Likun Liu, Zhaowei Zhang, Hongyu Wang, Xiangzhan Yu, **Yijia Xu**, Ruitao Feng, Zhichao Hu<br>*Computer Networks, 2026*
 
 <br>\[2026.07\] <u>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
 
