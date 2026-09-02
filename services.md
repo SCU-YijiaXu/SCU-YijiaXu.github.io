@@ -4,7 +4,7 @@ permalink: /services/index.html
 title: Services
 ---
 
-> Update: 25th April 2026
+> Update: 3rd September 2026
 
 ## Journal Reviewer
 
@@ -31,7 +31,7 @@ title: Services
 
 ---
 ## Assist Team Review
-
+- AAAI (2026)
 - NeurIPS (2025)
 - IJCAI (2025)
 - ASE (2025)
