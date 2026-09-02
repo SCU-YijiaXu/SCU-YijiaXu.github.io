@@ -29,6 +29,8 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 ---
 
 ## News and Updates
+
+- **\[2026.08\]**: I have been approved for a National Natural Science Foundation of China (NSFC) Youth Project.
 - **\[2026.03\]**: Our paper on the fuzzing has been accepted in the ACM International Conference on the Foundations of Software Engineering (FSE 26).
 - **\[2026.03\]**: Our paper on the backdoor attack method has been published in IEEE Transactions on Information Forensics & Security (TIFS).
 - **\[2026.02\]**: Our paper on the XSS attack method has been published in Neurocomputing Journal.
@@ -38,9 +40,9 @@ I sincerely invite talented and creative MS and Ph.D students to join our team. 
 - **\[2025.08\]**: Our paper on the directed fuzzing has been published in Information and Software Technology Journal.
 - **\[2025.07\]**: Our position paper about Agent Behavior (LLM) has been published in ICECCS 2025.
 - **\[2025.06\]**: Our paper (publish in 2023) has won the Best Paper Award in Applied Sciences Journal.
-- **\[2025.06\]**: Our paper on the code vulnerability detection has been published in Applied Sciences Journal.
 - **\[2025.04\]**: Our paper on the spear phishing email generation has been published in Information Fusion Journal.
 
+<!-- - **\[2025.06\]**: Our paper on the code vulnerability detection has been published in Applied Sciences Journal. -->
 <!-- - **\[2025.03\]**: I will be going to NTU on March 28th. See you in Singapore! -->
 <!-- - **\[2025.02\]**: Our paper on the unknown threat perception has been published in Applied Soft Computing Journal. -->
 <!-- - **\[2025.02\]**: Our paper on the generating adversarial malware has been published in Applied Soft Computing Journal. -->

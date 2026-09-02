@@ -18,6 +18,7 @@ Zhan Wang
 <br>Panxi Su
 <br>Junchang Zhang
 <br>Xiaowang Wu
+<br>Jing Zhang
 
 ---
 
@@ -30,6 +31,12 @@ Qian Wang
 <br>Jifu Dai
 <br>Wei Zeng
 <br>Shike Chen
+<br>Geyi Li
+<br>Linyi Gao
+<br>Cheng Chen
+<br>Shiqiang Tan
+<br>Yang Yang
+<br>Jianglin Luo
 
 ---
 
