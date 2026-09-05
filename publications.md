@@ -14,7 +14,7 @@ title: Publications
 
 <br>\[2026.06\] <u>Heterogeneous Graph Structure Optimization with Dual-View Contrastive Learning for Fraud Detection</u> ~ [\(<font color=Blue>Link</font>\)](https://www.mdpi.com/2076-3417/16/11/5485)<br>Yan Wu, Chengling Hao, **Yijia Xu**, Yaofeng Hu, Zhonglin Liu<br>*Applied Sciences, 2026*
 
-<br>\[2026.03\] <u>CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries</u> ~ [\(<font color=Blue>Link</font>\)](https://dl.acm.org/doi/10.1145/3808170)<br>Ximing Fan, Yong Fang<sup>\*</sup>, Peng Jia, Yang Liu, **Yijia Xu<sup>\*</sup>**, Xi Peng, Yuhao Zhou<br>*The ACM International Conference on the Foundations of Software Engineering(FSE), 2026*
+<br>\[2026.06\] <u>CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries</u> ~ [\(<font color=Blue>Link</font>\)](https://dl.acm.org/doi/10.1145/3808170)<br>Ximing Fan, Yong Fang<sup>\*</sup>, Peng Jia, Yang Liu, **Yijia Xu<sup>\*</sup>**, Xi Peng, Yuhao Zhou<br>*The ACM International Conference on the Foundations of Software Engineering(FSE), 2026*
 
 <br>\[2026.03\] <u>One Trigger, Multiple Victims: Clean-Label Neighborhood Backdoor Attacks on Graph Neural Networks</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1109/TIFS.2026.3678359)<br>Huaxin Deng, Yong Fang, Qiang Zhang, Chengwei Liu, Yang Liu, **Yijia Xu<sup>\*</sup>**<br>*IEEE Transactions on Information Forensics & Security, 2026*
 
