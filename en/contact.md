@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /contact/index.html
 title: Contact
+lang: en
+permalink: /contact/
+translation_url: /ch/contact/
 ---
 
 **<font size=5 color=DeepSkyBlue>If you have any question, please feel free to contact me.</font>**

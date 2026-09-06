@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /publications/index.html
 title: Publications
+lang: en
+permalink: /publications/
+translation_url: /ch/publications/
 ---
 
 > ( * : Corresponding Author)

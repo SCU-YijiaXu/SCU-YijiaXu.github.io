@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /team/index.html
 title: Team
+lang: en
+permalink: /team/
+translation_url: /ch/team/
 ---
 
 > (The following students are co-supervised by Yong Fang and Yijia Xu.)

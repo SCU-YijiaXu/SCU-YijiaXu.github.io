@@ -40,14 +40,19 @@ google_verify: "AU8FayaqhiW3NEfuMwolMae3wBgn2giBdATuCDXlano"
 # For external links add external: true
 links:
   - title: About Me
+    title_ch: 关于我
     url: /
   - title: Publications
+    title_ch: 学术成果
     url: /publications/
   - title: Services
+    title_ch: 学术服务
     url: /services/
   - title: Team-Students
+    title_ch: 团队与学生
     url: /team/
   - title: Contact
+    title_ch: 联系方式
     url: /contact/
   #- title: Blogs
   #  url: /blogs/

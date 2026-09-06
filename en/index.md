@@ -1,5 +1,8 @@
 ---
 layout: page
+lang: en
+permalink: /
+translation_url: /ch/
 ---
 
 **<font size=6 color=Coral>Yijia Xu(许益家)</font>**

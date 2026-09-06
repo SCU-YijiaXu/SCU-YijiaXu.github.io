@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /services/index.html
 title: Services
+lang: en
+permalink: /services/
+translation_url: /ch/services/
 ---
 
 > Update: 3rd September 2026

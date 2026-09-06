@@ -1,13 +1,21 @@
+{% assign current_url = page.url | replace: 'index.html', '' %}
+{% assign home_url = '/' %}
+{% if page.lang == 'zh-CN' %}{% assign home_url = '/ch/' %}{% endif %}
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="{{ site.url }}">{{ site.title }}</a>
+		<a href="{{ home_url | relative_url }}">{{ site.title }}</a>
 	</div><!-- /.site-name -->
   {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
 	<div class="top-navigation">
 		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		    <ul>
+            {% if page.translation_url %}
+            <li><a href="{{ page.translation_url | relative_url }}" rel="alternate" {% if page.lang == 'zh-CN' %}lang="en" hreflang="en" aria-label="Switch to English"{% else %}lang="zh-CN" hreflang="zh-CN" aria-label="切换到中文"{% endif %} style="text-transform: none;">{% if page.lang == 'zh-CN' %}English{% else %}中文{% endif %}</a></li>
+            {% endif %}
 		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+            {% assign target_url = link.url %}
+            {% if page.lang == 'zh-CN' %}{% assign target_url = '/ch' | append: link.url %}{% endif %}
+            <li><a href="{{ target_url | relative_url }}" {% if current_url == target_url %}class="top-navigation-current" aria-current="page"{% endif %}>{% if page.lang == 'zh-CN' %}{{ link.title_ch }}{% else %}{{ link.title }}{% endif %}</a></li>
 		        {% endfor %}
 		    </ul>
 		</nav>
