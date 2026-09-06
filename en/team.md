@@ -42,6 +42,13 @@ Qian Wang
 
 ---
 
+## Undergraduate Student
+Yukun Yang
+<br>Jiahui Kuang
+<br>Xibei Zou
+
+---
+
 ## Selected Alumni
 
 Ximing Fan (co-advised, Ph.D, 2026) --> Sichuan University

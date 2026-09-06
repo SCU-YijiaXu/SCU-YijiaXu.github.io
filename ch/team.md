@@ -12,48 +12,56 @@ translation_url: /team/
 
 ## 博士研究生
 
-Zhan Wang
-<br>Yaochang Xu
-<br>Huaxin Deng
-<br>Qiang Zhang
-<br>Xinyi Gao
-<br>Panxi Su
-<br>Junchang Zhang
-<br>Xiaowang Wu
-<br>Jing Zhang
+王展
+<br>徐尧昌
+<br>邓华鑫
+<br>张强
+<br>高心怡
+<br>苏攀西
+<br>张君昌
+<br>吴小王
+<br>张晶
 
 ---
 
 ## 硕士研究生
 
-Qian Wang
-<br>Lisha Yuan
-<br>Yunfeng He
-<br>Bo Lan
-<br>Jifu Dai
-<br>Wei Zeng
-<br>Shike Chen
-<br>Geyi Li
-<br>Linyi Gao
-<br>Cheng Chen
-<br>Shiqiang Tan
-<br>Yang Yang
-<br>Jianglin Luo
+王倩
+<br>袁丽莎
+<br>何芸锋
+<br>兰波
+<br>代吉富
+<br>曾卫
+<br>陈世科
+<br>李戈弋
+<br>高林翼
+<br>陈诚
+<br>谭世强
+<br>杨洋
+<br>罗江玲
+
+---
+
+## 入组本科生
+杨雨坤
+<br>匡家辉
+<br>邹昔贝
+
 
 ---
 
 ## 部分毕业生
 
-Ximing Fan (联合指导，博士, 2026) --> 四川大学
-<br>Yuntao Yang (联合指导，硕士, 2026) --> 重庆银行
-<br>Chengling Hao (联合指导，硕士, 2026) --> *
-<br>Jiyang Song (联合指导，硕士, 2026) --> *
-<br>Kaiyang Wang (联合指导，硕士, 2025) --> 上海交通大学（攻读博士学位）
-<br>Qinlin Qi (联合指导，硕士, 2025) --> 西湖大学
-<br>Rui Pan (联合指导，硕士, 2025) --> 美团
-<br>Hongsheng Zuo (联合指导，硕士, 2025) --> 招银网络科技
+范希明 (联合指导，博士, 2026) --> 四川大学
+<br>杨运涛 (联合指导，硕士, 2026) --> 重庆银行
+<br>郝城凌 (联合指导，硕士, 2026) --> *
+<br>宋霁洋 (联合指导，硕士, 2026) --> *
+<br>王开阳 (联合指导，硕士, 2025) --> 上海交通大学（攻读博士学位）
+<br>戚清琳 (联合指导，硕士, 2025) --> 西湖大学
+<br>潘睿 (联合指导，硕士, 2025) --> 美团
+<br>左洪盛 (联合指导，硕士, 2025) --> 招银网络科技
 
 ---
 
 ## 研究人员
-Zhonglin Liu --> 四川大学
+刘中临 --> 四川大学

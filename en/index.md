@@ -18,9 +18,10 @@ translation_url: /ch/
 ---
 
 ## Recruiment for Team
-I sincerely invite talented and creative MS and Ph.D students to join our team. We are looking for students with a solid foundation in cybersecurity, a passion for learning, and a strong willingness to take on challenges. Additionally, candidates should maintain a healthy, optimistic, and positive mindset.
+I sincerely invite talented and creative Undergraduate, MS and Ph.D students to join our team. We are looking for students with a solid foundation in cybersecurity, a passion for learning, and a strong willingness to take on challenges. Additionally, candidates should maintain a healthy, optimistic, and positive mindset.
 
 <br>Priority will be given to candidates who meet one or more of the following criteria:
+- Understand the basic principles of AI and be proficient in using various AI tools.
 - Proficiency in specialized cybersecurity skills, such as risk testing or CTF.
 - Great programming abilities, particularly in Python.
 - A solid understanding of cutting-edge technologies, with the ability to quickly stay up-to-date on the latest trends.
