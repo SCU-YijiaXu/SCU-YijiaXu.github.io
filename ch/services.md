@@ -6,7 +6,7 @@ permalink: /ch/services/
 translation_url: /services/
 ---
 
-> 更新于：2026年9月3日
+> 更新于：2026年9月27日
 
 ## 国际期刊审稿
 
@@ -46,4 +46,10 @@ translation_url: /services/
 ## 委员会任职
 
 - AIGC (2025) \[程序委员会\]
+- ACM CCS Artifact Evaluation (2026) \[程序委员会\]
 <br>
+
+## 项目评审
+
+- 国家自然科学基金评审专家
+- 全国大学生信息安全竞赛评审专家

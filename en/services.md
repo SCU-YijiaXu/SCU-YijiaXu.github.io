@@ -6,7 +6,7 @@ permalink: /services/
 translation_url: /ch/services/
 ---
 
-> Update: 3rd September 2026
+> Update: 27rd September 2026
 
 ## Journal Reviewer
 
@@ -46,4 +46,10 @@ translation_url: /ch/services/
 ## Committees
 
 - AIGC (2025) \[Program Committees\]
+- ACM CCS Artifact Evaluation (2026) \[Program Committees\]
 <br>
+
+## Project Reviewer
+
+- National Natural Science Foundation of China
+- National College Student Information Security Competition
