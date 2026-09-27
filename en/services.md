@@ -51,5 +51,4 @@ translation_url: /ch/services/
 
 ## Project Reviewer
 
-- National Natural Science Foundation of China
 - National College Student Information Security Competition
