@@ -10,9 +10,10 @@ translation_url: /publications/
 
 ## 2026年论文
 
-\[2026.08\] <u>TARL：面向安全加密流量分析的多任务自适应表示学习</u><br><small>TARL: Multi-task adaptive representation learning for secure encrypted traffic analysis</small> ~ [\(<font color=Blue>链接</font>\)](https://doi.org/10.1016/j.comnet.2026.112646)<br>Mengmeng Ge, Likun Liu, Zhaowei Zhang, Hongyu Wang, Xiangzhan Yu, **Yijia Xu**, Ruitao Feng, Zhichao Hu<br>*Computer Networks, 2026*
 
-<br>\[2026.07\] <u>NPM 恶意软件包检测工具的效果如何？一项大规模实证研究</u><br><small>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</small> ~ [\(<font color=Blue>待发表</font>\)]()<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
+\[2026.10\] <u>NPM 恶意软件包检测工具的效果如何？一项大规模实证研究</u><br><small>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</small> ~ [\(<font color=Blue>链接</font>\)](https://dl.acm.org/doi/10.1145/3832783.3837427)<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
+
+<br>\[2026.08\] <u>TARL：面向安全加密流量分析的多任务自适应表示学习</u><br><small>TARL: Multi-task adaptive representation learning for secure encrypted traffic analysis</small> ~ [\(<font color=Blue>链接</font>\)](https://doi.org/10.1016/j.comnet.2026.112646)<br>Mengmeng Ge, Likun Liu, Zhaowei Zhang, Hongyu Wang, Xiangzhan Yu, **Yijia Xu**, Ruitao Feng, Zhichao Hu<br>*Computer Networks, 2026*
 
 <br>\[2026.06\] <u>融合双视图对比学习的异构图结构优化及其在欺诈检测中的应用</u><br><small>Heterogeneous Graph Structure Optimization with Dual-View Contrastive Learning for Fraud Detection</small> ~ [\(<font color=Blue>链接</font>\)](https://www.mdpi.com/2076-3417/16/11/5485)<br>Yan Wu, Chengling Hao, **Yijia Xu**, Yaofeng Hu, Zhonglin Liu<br>*Applied Sciences, 2026*
 
