@@ -10,7 +10,9 @@ translation_url: /ch/publications/
 
 ## Paper 2026
 
-\[2026.10\] <u>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</u> ~ [\(<font color=Blue>Link</font>\)](https://dl.acm.org/doi/10.1145/3832783.3837427)<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
+\[2026.03\] <u>Learning Natural Triggers for Semantic Manipulations in Graph Neural Networks</u> ~ [\(<font color=Blue>wait for publish</font>\)]()<br>Huaxin Deng, Yong Fang<sup>\*</sup>, **Yijia Xu<sup>\*</sup>**, Ximing Fan, Wenbo Guo, Chengwei Liu, Rui Zhang, Yang Liu <br>*IEEE Internet of Things Journal, 2026*
+
+<br>\[2026.10\] <u>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</u> ~ [\(<font color=Blue>Link</font>\)](https://dl.acm.org/doi/10.1145/3832783.3837427)<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
 
 <br>\[2026.08\] <u>TARL: Multi-task adaptive representation learning for secure encrypted traffic analysis</u> ~ [\(<font color=Blue>Link</font>\)](https://doi.org/10.1016/j.comnet.2026.112646)<br>Mengmeng Ge, Likun Liu, Zhaowei Zhang, Hongyu Wang, Xiangzhan Yu, **Yijia Xu**, Ruitao Feng, Zhichao Hu<br>*Computer Networks, 2026*
 

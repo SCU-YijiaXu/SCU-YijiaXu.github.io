@@ -10,8 +10,9 @@ translation_url: /publications/
 
 ## 2026年论文
 
+\[2026.03\] <u>学习图神经网络中用于语义操纵的自然触发器</u><br><small>Learning Natural Triggers for Semantic Manipulations in Graph Neural Networks</u> ~ [\(<font color=Blue>待见刊</font>\)]()<br>Huaxin Deng, Yong Fang<sup>\*</sup>, **Yijia Xu<sup>\*</sup>**, Ximing Fan, Wenbo Guo, Chengwei Liu, Rui Zhang, Yang Liu <br>*IEEE Internet of Things Journal, 2026*
 
-\[2026.10\] <u>NPM 恶意软件包检测工具的效果如何？一项大规模实证研究</u><br><small>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</small> ~ [\(<font color=Blue>链接</font>\)](https://dl.acm.org/doi/10.1145/3832783.3837427)<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
+<br>\[2026.10\] <u>NPM 恶意软件包检测工具的效果如何？一项大规模实证研究</u><br><small>How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study</small> ~ [\(<font color=Blue>链接</font>\)](https://dl.acm.org/doi/10.1145/3832783.3837427)<br>Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Weisong Sun, Chengyue Liu, **Yijia Xu**, Shiwen Song, Yang liu<br>*IEEE/ACM International Conference on Automated Software Engineering(ASE), 2026*
 
 <br>\[2026.08\] <u>TARL：面向安全加密流量分析的多任务自适应表示学习</u><br><small>TARL: Multi-task adaptive representation learning for secure encrypted traffic analysis</small> ~ [\(<font color=Blue>链接</font>\)](https://doi.org/10.1016/j.comnet.2026.112646)<br>Mengmeng Ge, Likun Liu, Zhaowei Zhang, Hongyu Wang, Xiangzhan Yu, **Yijia Xu**, Ruitao Feng, Zhichao Hu<br>*Computer Networks, 2026*
 

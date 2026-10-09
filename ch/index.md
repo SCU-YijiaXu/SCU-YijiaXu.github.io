@@ -36,9 +36,10 @@ translation_url: /
 
 ## 新闻与动态
 
+- **\[2026.10\]**：我们关于后门攻击方法的论文被 IEEE Internet of Things Journal（IOT）接收。
 - **\[2026.09\]**：我担任 Applied Sciences 期刊[<font color=Blue>专题特刊</font>](https://www.mdpi.com/journal/applsci/special_issues/41A50Y6D69)的客座编辑。
 - **\[2026.08\]**：我获批国家自然科学基金青年项目。
-- **\[2026.03\]**：我们关于模糊测试的论文被 ACM International Conference on the Foundations of Software Engineering（FSE 26）录用。
+- **\[2026.03\]**：我们关于模糊测试的论文被 ACM International Conference on the Foundations of Software Engineering（FSE 26）接收。
 - **\[2026.03\]**：我们关于后门攻击方法的论文发表于 IEEE Transactions on Information Forensics & Security（TIFS）。
 - **\[2026.02\]**：我们关于 XSS 攻击方法的论文发表于 Neurocomputing。
 - **\[2025.12\]**：我们关于模糊测试的论文发表于 IEEE Transactions on Dependable and Secure Computing（TDSC）。
@@ -46,6 +47,5 @@ translation_url: /
 - **\[2025.10\]**：我们关于网页篡改检测的论文发表于 IEEE Transactions on Dependable and Secure Computing（TDSC）。
 - **\[2025.08\]**：我们关于定向模糊测试的论文发表于 Information and Software Technology。
 - **\[2025.07\]**：我们关于智能体行为（LLM）的观点论文发表于 ICECCS 2025。
-- **\[2025.06\]**：我们于2023年发表的论文获得 Applied Sciences 最佳论文奖。
 
 <br>
