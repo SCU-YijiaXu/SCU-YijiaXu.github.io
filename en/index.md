@@ -34,7 +34,7 @@ I sincerely invite talented and creative Undergraduate, MS and Ph.D students to 
 
 ## News and Updates
 
-- **\[2026.03\]**: Our paper on the backdoor attack has been accepted in the IEEE Internet of Things Journal (IOTJ).
+- **\[2026.10\]**: Our paper on the backdoor attack has been accepted in the IEEE Internet of Things Journal (IOTJ).
 - **\[2026.09\]**: I served as a guest editor for a [<font color=Blue>specific issue</font>](https://www.mdpi.com/journal/applsci/special_issues/41A50Y6D69) in the Applied Sciences Journal.
 - **\[2026.08\]**: I have been approved for a National Natural Science Foundation of China (NSFC) Youth Project.
 - **\[2026.03\]**: Our paper on the fuzzing has been accepted in the ACM International Conference on the Foundations of Software Engineering (FSE 26).
