@@ -36,7 +36,7 @@ translation_url: /
 
 ## 新闻与动态
 
-- **\[2026.10\]**：我们关于后门攻击方法的论文被 IEEE Internet of Things Journal（IOT）接收。
+- **\[2026.10\]**：我们关于后门攻击方法的论文被 IEEE Internet of Things Journal（IOTJ）接收。
 - **\[2026.09\]**：我担任 Applied Sciences 期刊[<font color=Blue>专题特刊</font>](https://www.mdpi.com/journal/applsci/special_issues/41A50Y6D69)的客座编辑。
 - **\[2026.08\]**：我获批国家自然科学基金青年项目。
 - **\[2026.03\]**：我们关于模糊测试的论文被 ACM International Conference on the Foundations of Software Engineering（FSE 26）接收。
