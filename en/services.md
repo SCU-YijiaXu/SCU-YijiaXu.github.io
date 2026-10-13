@@ -24,7 +24,7 @@ translation_url: /ch/services/
 - Neurocomputing (NEUCOM 2026)
 - Computers & Security (C&S 2026)
 - Computer Science Review (COSREV 2025/2026)
-- Computer Networks (CN 2024)
+- Computer Networks (CN 2024/2026)
 - Information and Software Technology (INFSOF 2026)
 <br>
 
